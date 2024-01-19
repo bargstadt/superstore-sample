@@ -1,2 +1,3 @@
 # superstore-sample
-a sample ml
+Just a sample ML project outline
+
